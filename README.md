@@ -1,7 +1,7 @@
 # Yi_Analytics-Portfolio
 My Marketing Analytics Works
 
-# Project1: Revitalize Product Portfolio
+# Project1: Revitalize Product Set
 * (Conjoint Analysis; Cluster Analysis; Competitive Analysis; Cannibalization; Pricing Policy)
 
 CASE BACKGROUND:
