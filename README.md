@@ -34,7 +34,7 @@ summary (lm(ratings~priceage+sizeage+motionage+styleage, data=prioridf))
 ### Priori Segment by “Gender”
 summary (lm(ratings~pricegender+sizegender+motiongender+stylegender,data=prioridf))
 
-### Post Hoc: Cluster Modeling
+### Post Hoc: Cluster Modelingy
 
 3 segments supported by average silhouette Total within sum of square–visual intuition
 ![image](https://user-images.githubusercontent.com/64434266/109405497-1e1c3e00-793f-11eb-8b96-362d2cd2761a.png)
