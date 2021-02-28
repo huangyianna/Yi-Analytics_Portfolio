@@ -9,7 +9,7 @@ My Marketing Analytics Works
 
 For this purpose, we ran a conjoint analysis based on 200 individuals, these individuals are made up of parents of 2-4 year old kids who planned to purchase a toy horse. And we were in charge of analyzing the data and creating a presentation to give to the management team of EarlyRiders.
 
-Here is the project presentation slides. [Click Here](https://github.com/huangyianna/market-research_conjoint-analysis/blob/master/ToyHorsePPT.pdf)
+Here is the project presentation slides. [Click Here](https://github.com/huangyianna/Yi-Analytics_Portfolio/blob/main/ToyHorsePPT.pdf)
 
 ### Analytics Design
 Decision: Which product line based on long term profitability
